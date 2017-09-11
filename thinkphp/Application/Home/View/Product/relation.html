@@ -1,0 +1,20 @@
+ <div class="mc"> 
+     <ul>					    
+     	<div class="mt">            
+            <h2>看了又看</h2>        
+        </div>
+     	<volist name="products" id="vo">
+		      <li class="first">
+		      	<div class="p-img">                    
+		      		<a  href="{:U('product/detail',array('product_id'=>$product['product_id']))}"> <img class="" src="__PUBLIC__/Home/{$vo.image}"> </a> 
+		      		            
+		      	</div>
+		      	<div class="p-name"><a href="#">
+		      		{$vo.product_name}
+		      	</a>
+		      	</div>
+		      	<div class="p-price"><strong>￥{$vo.price}</strong></div>
+		      </li>
+	      </volist>
+     </ul>					
+</div>

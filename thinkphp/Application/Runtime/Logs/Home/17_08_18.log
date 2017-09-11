@@ -1,0 +1,20 @@
+[ 2017-08-18T09:25:00+08:00 ] 127.0.0.1 /thinkphp/Home/user/index.html
+ERR: 1146:Table 'demo2.cc_user_card' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `cc_user_card`
+
+[ 2017-08-18T09:25:27+08:00 ] 127.0.0.1 /thinkphp/Home/user/index.html
+ERR: 1054:Unknown column 'card_no' in 'field list'
+ [ SQL语句 ] : SELECT `card_no` FROM `cc_user_cart` WHERE ( 1=1 AND user_id='26' ) LIMIT 1  
+
+[ 2017-08-18T10:12:17+08:00 ] 127.0.0.1 /thinkphp/Home/user/index.html
+ERR: 1146:Table 'demo2.userrela' doesn't exist
+ [ SQL语句 ] : SELECT b.message_name,user_id FROM UserRela AS a, cc_user_role AS b WHERE a.role_id = b.role_id AND a. user_id='26'
+
+[ 2017-08-18T10:12:56+08:00 ] 127.0.0.1 /thinkphp/Home/user/index.html
+ERR: 1054:Unknown column 'b.message_name' in 'field list'
+ [ SQL语句 ] : SELECT b.message_name,user_id FROM cc_user_rela AS a, cc_user_role AS b WHERE a.role_id = b.role_id AND a. user_id='26'
+
+[ 2017-08-18T10:19:58+08:00 ] 127.0.0.1 /thinkphp/Home/user/index.html
+ERR: 1054:Unknown column 'b.message_name' in 'field list'
+ [ SQL语句 ] : SELECT b.message_name,user_id FROM cc_user_rela AS a, cc_user_role AS b WHERE a.role_id = b.role_id AND a. user_id='26'
+

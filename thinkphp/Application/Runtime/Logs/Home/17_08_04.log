@@ -1,0 +1,24 @@
+[ 2017-08-04T08:48:13+08:00 ] 127.0.0.1 /thinkphp/Home/user/index
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-08-04T08:50:23+08:00 ] 127.0.0.1 /thinkphp/Home/user/index
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-08-04T12:06:58+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/login
+ERR: 非法操作:login
+
+[ 2017-08-04T14:35:48+08:00 ] 127.0.0.1 /thinkphp/Home/User/product/index
+ERR: 非法操作:product
+
+[ 2017-08-04T14:36:03+08:00 ] 127.0.0.1 /thinkphp/Home/User/product/index
+ERR: 非法操作:product
+
+[ 2017-08-04T14:36:07+08:00 ] 127.0.0.1 /thinkphp/Home/User/product/index
+ERR: 非法操作:product
+
+[ 2017-08-04T14:36:12+08:00 ] 127.0.0.1 /thinkphp/Home/User/product/index
+ERR: 非法操作:product
+
+[ 2017-08-04T14:36:24+08:00 ] 127.0.0.1 /thinkphp/Home/User/Product/index
+ERR: 非法操作:Product
+

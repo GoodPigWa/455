@@ -1,0 +1,339 @@
+[ 2017-08-21T17:16:05+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000837s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001777s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0419s ]
+SQL: UPDATE `cc_cart` SET `quantity`='2' WHERE ( cart_id=3 ) [ RunTime:0.1445s ]
+
+[ 2017-08-21T17:16:06+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001744s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0057s ]
+SQL: UPDATE `cc_cart` SET `quantity`='3' WHERE ( cart_id=3 ) [ RunTime:0.1039s ]
+
+[ 2017-08-21T17:16:07+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000960s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0054s ]
+SQL: UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=3 ) [ RunTime:0.0869s ]
+
+[ 2017-08-21T17:16:08+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001926s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0057s ]
+SQL: UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=3 ) [ RunTime:0.1050s ]
+
+[ 2017-08-21T18:28:07+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001792s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0050s ]
+SQL: UPDATE `cc_cart` SET `quantity`='6' WHERE ( cart_id=3 ) [ RunTime:0.0613s ]
+
+[ 2017-08-21T18:28:09+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002116s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.1117s ]
+SQL: UPDATE `cc_cart` SET `quantity`='7' WHERE ( cart_id=3 ) [ RunTime:0.0902s ]
+
+[ 2017-08-21T18:28:10+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002081s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0684s ]
+SQL: UPDATE `cc_cart` SET `quantity`='8' WHERE ( cart_id=3 ) [ RunTime:0.1251s ]
+
+[ 2017-08-21T18:28:11+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001805s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.1110s ]
+SQL: UPDATE `cc_cart` SET `quantity`='9' WHERE ( cart_id=3 ) [ RunTime:0.0793s ]
+
+[ 2017-08-21T18:28:12+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003128s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0060s ]
+SQL: UPDATE `cc_cart` SET `quantity`='10' WHERE ( cart_id=3 ) [ RunTime:0.1086s ]
+
+[ 2017-08-21T18:28:13+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002019s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0052s ]
+SQL: UPDATE `cc_cart` SET `quantity`='11' WHERE ( cart_id=3 ) [ RunTime:0.0620s ]
+
+[ 2017-08-21T18:53:16+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001941s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0084s ]
+SQL: UPDATE `cc_cart` SET `quantity`='10' WHERE ( cart_id=3 ) [ RunTime:0.0928s ]
+
+[ 2017-08-21T18:53:17+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002037s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0718s ]
+SQL: UPDATE `cc_cart` SET `quantity`='9' WHERE ( cart_id=3 ) [ RunTime:0.0844s ]
+
+[ 2017-08-21T18:53:19+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000847s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001846s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0057s ]
+SQL: UPDATE `cc_cart` SET `quantity`='8' WHERE ( cart_id=3 ) [ RunTime:0.0840s ]
+
+[ 2017-08-21T18:53:20+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0046s ]
+SQL: UPDATE `cc_cart` SET `quantity`='7' WHERE ( cart_id=3 ) [ RunTime:0.0554s ]
+
+[ 2017-08-21T18:53:21+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001779s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0058s ]
+SQL: UPDATE `cc_cart` SET `quantity`='6' WHERE ( cart_id=3 ) [ RunTime:0.0965s ]
+
+[ 2017-08-21T18:53:22+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000558s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001967s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0052s ]
+SQL: UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=3 ) [ RunTime:0.0940s ]
+
+[ 2017-08-21T18:53:23+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000506s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001871s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0052s ]
+SQL: UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=3 ) [ RunTime:0.0665s ]
+
+[ 2017-08-21T18:53:24+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000457s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001709s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0058s ]
+SQL: UPDATE `cc_cart` SET `quantity`='3' WHERE ( cart_id=3 ) [ RunTime:0.0843s ]
+
+[ 2017-08-21T18:53:25+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000719s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001620s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0055s ]
+SQL: UPDATE `cc_cart` SET `quantity`='9' WHERE ( cart_id=3 ) [ RunTime:0.0890s ]
+
+[ 2017-08-21T18:53:26+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001787s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0056s ]
+SQL: UPDATE `cc_cart` SET `quantity`='8' WHERE ( cart_id=3 ) [ RunTime:0.0832s ]
+
+[ 2017-08-21T18:53:27+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/10
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0052s ]
+SQL: UPDATE `cc_cart` SET `quantity`='10' WHERE ( cart_id=3 ) [ RunTime:0.0866s ]
+
+[ 2017-08-21T18:53:29+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/11
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001811s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0063s ]
+SQL: UPDATE `cc_cart` SET `quantity`='11' WHERE ( cart_id=3 ) [ RunTime:0.1029s ]
+
+[ 2017-08-21T18:53:30+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/12
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0055s ]
+SQL: UPDATE `cc_cart` SET `quantity`='12' WHERE ( cart_id=3 ) [ RunTime:0.0978s ]
+
+[ 2017-08-21T18:53:31+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001640s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0547s ]
+SQL: UPDATE `cc_cart` SET `quantity`='7' WHERE ( cart_id=3 ) [ RunTime:0.0982s ]
+
+[ 2017-08-21T18:53:32+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001642s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0051s ]
+SQL: UPDATE `cc_cart` SET `quantity`='6' WHERE ( cart_id=3 ) [ RunTime:0.0720s ]
+
+[ 2017-08-21T18:53:33+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0053s ]
+SQL: UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=3 ) [ RunTime:0.0992s ]
+
+[ 2017-08-21T18:53:34+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001762s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0053s ]
+SQL: UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=3 ) [ RunTime:0.1034s ]
+
+[ 2017-08-21T19:31:33+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxdel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000945s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001883s ]
+ERR: 非法操作:ajaxdel
+
+[ 2017-08-21T19:32:00+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxdel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001625s ]
+ERR: 非法操作:ajaxdel
+
+[ 2017-08-21T19:32:18+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxdel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001822s ]
+ERR: 非法操作:ajaxdel
+
+[ 2017-08-21T19:32:29+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxdel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001793s ]
+ERR: 非法操作:ajaxdel
+
+[ 2017-08-21T19:34:21+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:34:36+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0056s ]
+SQL: UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=3 ) [ RunTime:0.0961s ]
+
+[ 2017-08-21T19:34:37+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001519s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0725s ]
+SQL: UPDATE `cc_cart` SET `quantity`='6' WHERE ( cart_id=3 ) [ RunTime:0.1152s ]
+
+[ 2017-08-21T19:34:41+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001580s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0053s ]
+SQL: UPDATE `cc_cart` SET `quantity`='7' WHERE ( cart_id=3 ) [ RunTime:0.1013s ]
+
+[ 2017-08-21T19:34:42+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/3/quantity/8
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002009s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0047s ]
+SQL: UPDATE `cc_cart` SET `quantity`='8' WHERE ( cart_id=3 ) [ RunTime:0.0517s ]
+
+[ 2017-08-21T19:34:42+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001605s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:35:24+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000510s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001650s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:35:24+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000742s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001641s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:35:24+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001651s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:35:25+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001699s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:35:25+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001473s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:35:25+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000720s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001630s ]
+ERR: 非法操作:ajaxDel
+
+[ 2017-08-21T19:35:25+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxDel/cart_id/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000471s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001656s ]
+ERR: 非法操作:ajaxDel
+

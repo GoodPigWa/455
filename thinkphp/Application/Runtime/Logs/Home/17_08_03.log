@@ -1,0 +1,158 @@
+[ 2017-08-03T08:53:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `cc_user`
+
+[ 2017-08-03T09:05:48+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 1046:No database selected
+ [ SQL语句 ] : SHOW COLUMNS FROM `cc_user`
+
+[ 2017-08-03T09:06:43+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 1054:Unknown column 'fs' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_user` WHERE ( id=1 and user = fs ) 
+
+[ 2017-08-03T09:13:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_user` WHERE `user` = 'fs' AND (  ) 
+
+[ 2017-08-03T09:13:17+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_user` WHERE `user` = 'fs' AND (  ) 
+
+[ 2017-08-03T09:24:07+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 表达式错误:berween
+
+[ 2017-08-03T09:25:08+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 表达式错误:[not]between
+
+[ 2017-08-03T09:25:26+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/user/index
+ERR: 表达式错误:[NOT]between
+
+[ 2017-08-03T14:09:57+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/index
+ERR: 模板不存在:./Application/Home/View/Product/index.html
+
+[ 2017-08-03T14:10:47+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/index
+ERR: 模板不存在:./Application/Home/View/Product/aaa.html
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/AmazeUI-2.4.2/assets/css/amazeui.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/AmazeUI-2.4.2/assets/css/admin.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/css/demo.css
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/jquery-1.7.min.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/css/seastyle.css
+ERR: 无法加载控制器:Css
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/script.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-03T14:24:52+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/basic/js/jquery-1.9.min.js
+ERR: 非法操作:basic
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/thinkphp/Public/AmazeUI-2.4.2/assets/css/admin.css
+ERR: 无法加载控制器:Thinkphp
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/css/demo.css
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/jquery-1.7.min.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/script.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/thinkphp/Public/AmazeUI-2.4.2/assets/css/amazeui.css
+ERR: 无法加载控制器:Thinkphp
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/css/seastyle.css
+ERR: 无法加载控制器:Css
+
+[ 2017-08-03T14:28:24+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/basic/js/jquery-1.9.min.js
+ERR: 非法操作:basic
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/thinkphp/Public/AmazeUI-2.4.2/assets/css/admin.css
+ERR: 无法加载控制器:Thinkphp
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/thinkphp/Public/basic/css/demo.css
+ERR: 无法加载控制器:Thinkphp
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/thinkphp/Public/css/seastyle.css
+ERR: 无法加载控制器:Thinkphp
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/jquery-1.7.min.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/thinkphp/Public/AmazeUI-2.4.2/assets/css/amazeui.css
+ERR: 无法加载控制器:Thinkphp
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/script.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-03T14:28:59+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/basic/js/jquery-1.9.min.js
+ERR: 非法操作:basic
+
+[ 2017-08-03T14:29:37+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/js/script.js
+ERR: 无法加载控制器:Js
+
+[ 2017-08-03T14:29:37+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/jquery-1.7.min.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:29:37+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-03T14:29:37+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/basic/js/jquery-1.9.min.js
+ERR: 非法操作:basic
+
+[ 2017-08-03T15:28:12+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/index?index_none_header_sysc=%E5%8F%91%E7%83%AD
+ERR: 1146:Table 'demo2.cc_product' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `cc_product`
+
+[ 2017-08-03T16:07:32+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/index?index_none_header_sysc=%E5%8F%91%E7%83%AD
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cc_special.special_id = cc_product.product_id  ORDER BY cc_product.product_id de' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` left join cc_special an cc_special.special_id = cc_product.product_id  ORDER BY cc_product.product_id desc 
+
+[ 2017-08-03T16:17:05+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/index?index_none_header_sysc=%E5%8F%91%E7%83%AD
+ERR: 1054:Unknown column 'b.drand_id' in 'on clause'
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price` FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.drand_id  ORDER BY p.product_id desc 
+
+[ 2017-08-03T16:17:49+08:00 ] 127.0.0.1 /thinkphp/index.php/Home/product/index?index_none_header_sysc=%E5%8F%91%E7%83%AD
+ERR: 1052:Column 'brand_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,`brand_id` FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  ORDER BY p.product_id desc 
+
+[ 2017-08-03T16:33:47+08:00 ] 127.0.0.1 /thinkphp/Home/Product/Productindex.html
+ERR: 非法操作:Productindex
+
+[ 2017-08-03T16:34:11+08:00 ] 127.0.0.1 /thinkphp/Home/Product/Productindex.html
+ERR: 非法操作:Productindex
+
+[ 2017-08-03T16:34:14+08:00 ] 127.0.0.1 /thinkphp/Home/Product/Productindex.html
+ERR: 非法操作:Productindex
+
+[ 2017-08-03T16:35:07+08:00 ] 127.0.0.1 /thinkphp/Home/Product/Productindex.html
+ERR: 非法操作:Productindex
+
+[ 2017-08-03T16:35:30+08:00 ] 127.0.0.1 /thinkphp/Home/Product/Productindex.html
+ERR: 非法操作:Productindex
+
+[ 2017-08-03T16:49:58+08:00 ] 127.0.0.1 /thinkphp/Home/product/index/sort/price.html
+ERR: 1054:Unknown column '$sort' in 'order clause'
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  ORDER BY $sort 
+
+[ 2017-08-03T17:39:37+08:00 ] 127.0.0.1 /thinkphp/Home/product/index/sort/sales.html
+ERR: 1054:Unknown column 'sales' in 'order clause'
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  ORDER BY sales desc 
+

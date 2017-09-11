@@ -1,0 +1,8 @@
+[ 2017-08-07T20:20:28+08:00 ] 127.0.0.1 /thinkphp/Home/User/register.html
+ERR: 1146:Table 'demo2.cc_user_active' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `cc_user_active`
+
+[ 2017-08-07T20:22:57+08:00 ] 127.0.0.1 /thinkphp/Home/User/register.html
+ERR: 1146:Table 'demo2.cc_user_active' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `cc_user_active`
+

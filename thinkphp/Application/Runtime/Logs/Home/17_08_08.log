@@ -1,0 +1,309 @@
+[ 2017-08-08T09:00:28+08:00 ] 127.0.0.1 /thinkphp/Home/User/register.html
+ERR: 模板不存在:./Application/Home/View/default/User/register.html
+
+[ 2017-08-08T09:01:13+08:00 ] 127.0.0.1 /thinkphp/Home/index/index
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-08-08T09:01:45+08:00 ] 127.0.0.1 /thinkphp/Home/Index/index
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-08-08T09:03:48+08:00 ] 127.0.0.1 /thinkphp/Home/Index/index
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-08-08T09:04:48+08:00 ] 127.0.0.1 /thinkphp/Home/User/register.html
+ERR: 模板不存在:./Application/Home/View/red/User/register.html
+
+[ 2017-08-08T09:05:04+08:00 ] 127.0.0.1 /thinkphp/Home/index/index.html
+ERR: Think\Model:getUser方法不存在！
+
+[ 2017-08-08T09:15:01+08:00 ] 127.0.0.1 /thinkphp/Home/index/index.html
+ERR: 模板不存在:./Application/Home/View/Index/info.html
+
+[ 2017-08-08T09:15:27+08:00 ] 127.0.0.1 /thinkphp/Home/index/index.html
+ERR: 模板不存在:./Application/Home/View/public/info.html
+
+[ 2017-08-08T09:28:23+08:00 ] 127.0.0.1 /thinkphp/Home/index/index.html
+ERR: Think\Controller:saaign方法不存在！
+
+[ 2017-08-08T14:26:48+08:00 ] 127.0.0.1 /thinkphp/Home/product/register
+ERR: 非法操作:register
+
+[ 2017-08-08T14:30:15+08:00 ] 127.0.0.1 /thinkphp/Home/user/register
+ERR: XML标签语法错误
+
+[ 2017-08-08T14:31:06+08:00 ] 127.0.0.1 /thinkphp/Home/product/indx
+ERR: 非法操作:indx
+
+[ 2017-08-08T15:12:19+08:00 ] 127.0.0.1 /thinkphp/Home/index/index
+ERR: XML标签语法错误
+
+[ 2017-08-08T15:12:32+08:00 ] 127.0.0.1 /thinkphp/Home/index/index
+ERR: XML标签语法错误
+
+[ 2017-08-08T15:12:53+08:00 ] 127.0.0.1 /thinkphp/Home/index/index
+ERR: XML标签语法错误
+
+[ 2017-08-08T15:12:55+08:00 ] 127.0.0.1 /thinkphp/Home/index/index
+ERR: XML标签语法错误
+
+[ 2017-08-08T15:13:15+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:14:50+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/css/admin.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:14:50+08:00 ] 127.0.0.1 /thinkphp/Home/basic/css/demo.css
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:14:50+08:00 ] 127.0.0.1 /thinkphp/Home/css/hmstyle.css
+ERR: 无法加载控制器:Css
+
+[ 2017-08-08T15:14:50+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/js/jquery.min.js
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:14:50+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/js/amazeui.min.js
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:14:50+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/css/amazeui.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:14:50+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:15:04+08:00 ] 127.0.0.1 /thinkphp/Home/basic/css/demo.css
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:15:04+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/js/jquery.min.js
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:15:04+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/js/amazeui.min.js
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:15:04+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/css/amazeui.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:15:04+08:00 ] 127.0.0.1 /thinkphp/Home/css/hmstyle.css
+ERR: 无法加载控制器:Css
+
+[ 2017-08-08T15:15:04+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/css/admin.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:15:04+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:15:05+08:00 ] 127.0.0.1 /thinkphp/Home/index/basic/js/jquery.min.js
+ERR: 非法操作:basic
+
+[ 2017-08-08T15:16:08+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:17:07+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:17:39+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:18:07+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:18:20+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:18:39+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:19:49+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:20:01+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:21:25+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:21:55+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:22:33+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:22:55+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:23:19+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:23:44+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:23:52+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:24:34+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:25:46+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:28:40+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:33:46+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:34:33+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:34:44+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:35:27+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:35:34+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:35:41+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:36:23+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/css/admin.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/css/amazeui.css
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/css/hmstyle.css
+ERR: 无法加载控制器:Css
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/js/jquery.min.js
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/basic/css/demo.css
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/AmazeUI-2.4.2/assets/js/amazeui.min.js
+ERR: 无法加载控制器:AmazeUI-2.4.2
+
+[ 2017-08-08T15:38:40+08:00 ] 127.0.0.1 /thinkphp/Home/index/basic/js/jquery.min.js
+ERR: 非法操作:basic
+
+[ 2017-08-08T15:39:43+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:40:33+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:41:37+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:42:15+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:42:28+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:42:40+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:43:07+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:43:20+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:43:40+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:43:55+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:44:25+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:44:45+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:45:08+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:46:36+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T15:58:50+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:00:27+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:02:05+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:05:52+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:06:17+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:09:56+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:10:37+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:11:08+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:11:33+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:12:12+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:13:15+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:14:32+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:14:49+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:15:08+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:15:30+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:17:30+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:18:57+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:23:14+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:25:26+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:25:36+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:26:26+08:00 ] 127.0.0.1 /thinkphp/Home/basic/js/quick_links.js
+ERR: 无法加载控制器:Basic
+
+[ 2017-08-08T16:33:52+08:00 ] 127.0.0.1 /thinkphp/Home/imdex/index
+ERR: 无法加载控制器:Imdex
+
+[ 2017-08-08T20:13:08+08:00 ] 127.0.0.1 /thinkphp/Home/imdex/index
+ERR: 无法加载控制器:Imdex
+
+[ 2017-08-08T20:14:25+08:00 ] 127.0.0.1 /thinkphp/Home/index/index
+ERR: 模板不存在:./Application/Home/View/public/info.html
+

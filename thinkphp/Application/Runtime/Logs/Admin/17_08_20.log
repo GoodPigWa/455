@@ -1,0 +1,138 @@
+[ 2017-08-20T14:41:30+08:00 ] 127.0.0.1 /thinkphp/Admin/public/login.html
+ERR: 无法加载控制器:Public
+
+[ 2017-08-20T14:41:41+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000625s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002013s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000637s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2017-08-20T14:41:45+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000883s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000821s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002525s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+
+[ 2017-08-20T14:41:46+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002904s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001017s ]
+
+[ 2017-08-20T14:42:33+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:42:39+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:47:42+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:47:44+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:48:36+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:48:37+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:50:23+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:50:27+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:50:30+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:50:32+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=3
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$parent_id )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $parent_id ) 
+
+[ 2017-08-20T14:51:01+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T14:51:04+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T14:53:14+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1054:Unknown column '$arr1' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in ($arr1) ) 
+
+[ 2017-08-20T14:53:16+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1054:Unknown column '$arr1' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in ($arr1) ) 
+
+[ 2017-08-20T14:54:40+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T14:54:42+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T15:10:37+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T15:10:41+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T15:10:44+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=2
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T15:12:07+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1054:Unknown column '$arr1' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in($arr1) ) 
+
+[ 2017-08-20T15:12:18+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1054:Unknown column '$arr1' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in($arr1) ) 
+
+[ 2017-08-20T15:16:01+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1054:Unknown column '$arr1' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in($arr1) ) 
+
+[ 2017-08-20T15:16:02+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1054:Unknown column '$arr1' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in($arr1) ) 
+
+[ 2017-08-20T15:16:04+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=2
+ERR: 1054:Unknown column '$arr1' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in($arr1) ) 
+
+[ 2017-08-20T16:16:13+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in(implode( ) 
+
+[ 2017-08-20T16:21:00+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+
+[ 2017-08-20T16:23:53+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList?category_id=1
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '$arr1 )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_product` WHERE ( category_id in $arr1 ) 
+

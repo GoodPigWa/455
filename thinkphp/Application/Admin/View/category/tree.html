@@ -1,0 +1,18 @@
+<volist name="category" id="vo">
+	<tr class="text-c">
+		<td><input type="checkbox" value="1" name=""></td>
+		<td>{$vo.category_id}</td>
+		<td style="text-align:left;">
+			<for start="0" end="$vo['level']-1">
+				--
+			</for>
+			{$vo.category_name}
+		</td>
+		<td>{$vo.sort}</td>
+		<td>{$vo.is_show}</td>
+		<td>{$vo.parent_id}</td>
+		<td>{$vo.level}</td>
+		<td class="td-manage">修改 | 删除</td>
+	</tr>
+	{:R('Category/tree',array($vo['children']))}
+</volist>

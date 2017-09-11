@@ -1,0 +1,172 @@
+[ 2017-08-16T08:46:31+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0047s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`=quantity+4 WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`=quantity+4 WHERE ( cart_id=undefined )
+
+[ 2017-08-16T09:15:47+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0044s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T12:35:42+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0037s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T12:56:41+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0036s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T12:58:13+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001007s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0040s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T12:58:19+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001028s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0040s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T12:59:37+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000948s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0046s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T12:59:40+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000918s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0055s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T13:00:28+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0043s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T13:01:15+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000894s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0041s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T13:01:41+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000954s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0046s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=undefined )
+
+[ 2017-08-16T13:03:08+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/[object%20Object]/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0543s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object] )' at line 1
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=[object Object] )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object] )' at line 1
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=[object Object] )
+
+[ 2017-08-16T13:06:30+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/[object%20Object]/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0047s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object] )' at line 1
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=[object Object] )
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[object Object] )' at line 1
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=[object Object] )
+
+[ 2017-08-16T13:10:21+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/2/quantity/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000812s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0046s ]
+SQL: UPDATE `cc_cart` SET `quantity`='4' WHERE ( cart_id=2 ) [ RunTime:0.0917s ]
+
+[ 2017-08-16T13:10:23+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/1/quantity/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000774s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0046s ]
+SQL: UPDATE `cc_cart` SET `quantity`='6' WHERE ( cart_id=1 ) [ RunTime:0.0945s ]
+
+[ 2017-08-16T13:10:40+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/2/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000929s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0046s ]
+SQL: UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=2 ) [ RunTime:0.0897s ]
+
+[ 2017-08-16T13:10:55+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/2/quantity/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000931s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0041s ]
+SQL: UPDATE `cc_cart` SET `quantity`='6' WHERE ( cart_id=2 ) [ RunTime:0.0440s ]
+
+[ 2017-08-16T13:11:08+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/1/quantity/7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0041s ]
+SQL: UPDATE `cc_cart` SET `quantity`='7' WHERE ( cart_id=1 ) [ RunTime:0.1865s ]
+
+[ 2017-08-16T13:11:15+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/2/quantity/5
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0046s ]
+SQL: UPDATE `cc_cart` SET `quantity`='5' WHERE ( cart_id=2 ) [ RunTime:0.0930s ]
+

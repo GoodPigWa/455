@@ -1,0 +1,107 @@
+[ 2017-08-09T09:34:04+08:00 ] 127.0.0.1 /thinkphp/Home/product/index?index_none_header_sysc=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0
+ERR: Think\Model:getCatrgory方法不存在！
+
+[ 2017-08-09T09:50:49+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index/category_id/5.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ( c.category_id ) ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id left join cc_category as c  WHERE ( c.category_id ) ORDER BY p.product_id desc 
+
+[ 2017-08-09T09:52:44+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index/category_id/5.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id left join cc_category as c  ORDER BY p.product_id desc 
+
+[ 2017-08-09T09:52:50+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id left join cc_category as c  ORDER BY p.product_id desc 
+
+[ 2017-08-09T16:37:17+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%,1,% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_brand` WHERE ( concat(',',gategory_id,',') like %,1,% ) 
+
+[ 2017-08-09T16:44:20+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%',1,'% )' at line 1
+ [ SQL语句 ] : SELECT * FROM `cc_brand` WHERE ( concat(',',gategory_id,',') like %',1,'% ) 
+
+[ 2017-08-09T17:12:01+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:30:48+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index/category_id/0/brand_id/0/price/3.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'between100 and 300 ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between100 and 300 ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:31:45+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:32:07+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:32:23+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:32:42+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:33:26+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:34:14+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:34:27+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:38:09+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:40:05+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:46:39+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:47:31+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:48:28+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:52:40+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:52:56+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T17:57:25+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index/category_id/0/brand_id/0/price/1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'between10 and 50 ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between10 and 50 ORDER BY p.product_id desc 
+
+[ 2017-08-09T18:07:37+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index/category_id/2/brand_id/0/price/1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'between10 and 50 ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  WHERE p.category_id IN ('9',2) HAVING salesPrice between10 and 50 ORDER BY p.product_id desc 
+
+[ 2017-08-09T18:10:51+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index/category_id/0/brand_id/0/price/1.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'between10 and 50 ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between10 and 50 ORDER BY p.product_id desc 
+
+[ 2017-08-09T18:14:14+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between and  ORDER BY p.product_id desc 
+
+[ 2017-08-09T18:20:19+08:00 ] 127.0.0.1 /thinkphp/Home/Product/index
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'between0 and 10 ORDER BY p.product_id desc' at line 1
+ [ SQL语句 ] : SELECT p.product_id,`product_name`,`image`,`price`,`special_price`,b.brand_name,if(special_price is null,`price`,special_price) as salesPrice FROM cc_product p left join cc_special on cc_special.special_id = p.product_id left join cc_brand as b on p.brand_id = b.brand_id  HAVING salesPrice between0 and 10 ORDER BY p.product_id desc 
+

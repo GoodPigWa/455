@@ -1,0 +1,143 @@
+[ 2017-09-07T16:33:05+08:00 ] 127.0.0.1 /thinkphp/Home/Person/addressajax/add_id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000455s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001618s ]
+SQL: SHOW COLUMNS FROM `cc_address` [ RunTime:0.0050s ]
+SQL: UPDATE `cc_address` SET `default`='1' WHERE ( add_id=4 ) [ RunTime:0.1105s ]
+SQL: UPDATE `cc_address` SET `default`='0' WHERE ( add_id!=4 ) [ RunTime:0.0297s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000595s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-09-07T16:33:07+08:00 ] 127.0.0.1 /thinkphp/Home/Person/addressajax/add_id/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001567s ]
+SQL: SHOW COLUMNS FROM `cc_address` [ RunTime:0.0054s ]
+SQL: UPDATE `cc_address` SET `default`='1' WHERE ( add_id=6 ) [ RunTime:0.0947s ]
+SQL: UPDATE `cc_address` SET `default`='0' WHERE ( add_id!=6 ) [ RunTime:0.0288s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000823s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000872s ]
+
+[ 2017-09-07T16:33:08+08:00 ] 127.0.0.1 /thinkphp/Home/Person/addressajax/add_id/4
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001778s ]
+SQL: SHOW COLUMNS FROM `cc_address` [ RunTime:0.0048s ]
+SQL: UPDATE `cc_address` SET `default`='1' WHERE ( add_id=4 ) [ RunTime:0.0661s ]
+SQL: UPDATE `cc_address` SET `default`='0' WHERE ( add_id!=4 ) [ RunTime:0.0316s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-09-07T16:33:09+08:00 ] 127.0.0.1 /thinkphp/Home/Person/addressajax/add_id/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000586s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+SQL: SHOW COLUMNS FROM `cc_address` [ RunTime:0.0054s ]
+SQL: UPDATE `cc_address` SET `default`='1' WHERE ( add_id=6 ) [ RunTime:0.1141s ]
+SQL: UPDATE `cc_address` SET `default`='0' WHERE ( add_id!=6 ) [ RunTime:0.0285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000584s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000619s ]
+
+[ 2017-09-07T16:33:30+08:00 ] 127.0.0.1 /thinkphp/Home/Person/addressajax/add_id/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000572s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000674s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+SQL: SHOW COLUMNS FROM `cc_address` [ RunTime:0.0049s ]
+SQL: UPDATE `cc_address` SET `default`='1' WHERE ( add_id=2 ) [ RunTime:0.0943s ]
+SQL: UPDATE `cc_address` SET `default`='0' WHERE ( add_id!=2 ) [ RunTime:0.0427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000612s ]
+
+[ 2017-09-07T16:40:53+08:00 ] 127.0.0.1 /thinkphp/Home/Person/addressajax/add_id/6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001620s ]
+SQL: SHOW COLUMNS FROM `cc_address` [ RunTime:0.0048s ]
+SQL: UPDATE `cc_address` SET `default`='1' WHERE ( add_id=6 ) [ RunTime:0.0839s ]
+SQL: UPDATE `cc_address` SET `default`='0' WHERE ( add_id!=6 ) [ RunTime:0.0286s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000573s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000606s ]
+
+[ 2017-09-07T16:43:01+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/10/quantity/2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001673s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0051s ]
+SQL: UPDATE `cc_cart` SET `quantity`='2' WHERE ( product_id=10 ) [ RunTime:0.0870s ]
+
+[ 2017-09-07T16:43:02+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/5/quantity/3
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001594s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0072s ]
+SQL: UPDATE `cc_cart` SET `quantity`='3' WHERE ( product_id=5 ) [ RunTime:0.1058s ]
+
+[ 2017-09-07T16:43:22+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003203s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0051s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+
+[ 2017-09-07T16:43:23+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0051s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+
+[ 2017-09-07T16:43:24+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001497s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0049s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+
+[ 2017-09-07T16:43:42+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0051s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+
+[ 2017-09-07T16:55:16+08:00 ] 127.0.0.1 /thinkphp/Home/Cart/ajaxCart/cart_id/undefined/quantity/1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000563s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001891s ]
+SQL: SHOW COLUMNS FROM `cc_cart` [ RunTime:0.0050s ]
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : UPDATE `cc_cart` SET `quantity`='1' WHERE ( product_id=undefined )
+

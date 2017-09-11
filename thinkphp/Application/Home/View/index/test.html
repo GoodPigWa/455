@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<!-- <if condition = "$data.sex eq 0">
+		男
+		<elseif condition ="$data.sex eq 1" />
+			女
+			<else />
+			未知
+	</if>
+
+	<switch name="data.sex">
+		<case value="0">男</case>
+		<case value="1">女</case>
+		<default />未知
+	</switch> -->
+	<!-- <taglib name="html" />
+	<html:select option="arr" selected="" /> -->
+	<!-- <form action="__ACTION__" enctype="multipart/form-data" method="post" >
+		<input type="file" name="photo" />
+		<button>提交</button>
+	</form> -->
+	<form action="">
+		{:L('form_user')}  //一种方法
+		{$Think.lang.form_user}<input type="text">  //第二种方法
+		<br/>
+		{$Think.lang.form_pwd}<input type="password">
+		<br/>
+		{$Think.lang.form_email}<input type="text">
+		<br/>
+		<button>{$Think.lang.form_submit}</button>
+		<br/>
+	</form>
+</body>
+</html>

@@ -1,0 +1,265 @@
+[ 2017-08-17T09:07:54+08:00 ] 127.0.0.1 /thinkphp/Admin/public/login.html
+ERR: 无法加载控制器:Public
+
+[ 2017-08-17T09:07:59+08:00 ] 127.0.0.1 /thinkphp/Admin/public/login.html
+ERR: 无法加载控制器:Public
+
+[ 2017-08-17T09:08:04+08:00 ] 127.0.0.1 /thinkphp/Admin/public/login.html
+ERR: 无法加载控制器:Public
+
+[ 2017-08-17T09:08:32+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000548s ]
+
+[ 2017-08-17T09:08:34+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000874s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000462s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000499s ]
+
+[ 2017-08-17T13:00:14+08:00 ] 127.0.0.1 /thinkphp/Admin/category/index
+ERR: Think\Controller:tree方法不存在！
+
+[ 2017-08-17T13:01:49+08:00 ] 127.0.0.1 /thinkphp/Admin/category/index
+ERR: 模板不存在:./Application/Admin/View/Category/tree.html
+
+[ 2017-08-17T14:44:37+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000548s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-08-17T14:44:39+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-08-17T14:48:46+08:00 ] 127.0.0.1 /thinkphp/Admin/product/lib/zTree/v3/css/zTreeStyle/zTreeStyle.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T14:48:50+08:00 ] 127.0.0.1 /thinkphp/Admin/product/product-add.html
+ERR: 非法操作:product-add
+
+[ 2017-08-17T15:00:22+08:00 ] 127.0.0.1 /thinkphp/Admin/index/article-add.html
+ERR: 非法操作:article-add
+
+[ 2017-08-17T16:00:34+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 模板不存在:./Application/Admin/View/Product/productList.html
+
+[ 2017-08-17T16:01:22+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 模板不存在:./Application/Admin/View/Product/productList.html
+
+[ 2017-08-17T16:19:15+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T16:19:16+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T16:19:17+08:00 ] 127.0.0.1 /thinkphp/Admin/product/2
+ERR: 非法操作:2
+
+[ 2017-08-17T16:19:46+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T16:19:49+08:00 ] 127.0.0.1 /thinkphp/Admin/product/7
+ERR: 非法操作:7
+
+[ 2017-08-17T16:19:50+08:00 ] 127.0.0.1 /thinkphp/Admin/product/7
+ERR: 非法操作:7
+
+[ 2017-08-17T16:19:51+08:00 ] 127.0.0.1 /thinkphp/Admin/product/6
+ERR: 非法操作:6
+
+[ 2017-08-17T16:20:22+08:00 ] 127.0.0.1 /thinkphp/Admin/product/7
+ERR: 非法操作:7
+
+[ 2017-08-17T16:21:21+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T16:21:24+08:00 ] 127.0.0.1 /thinkphp/Admin/product/9
+ERR: 非法操作:9
+
+[ 2017-08-17T16:21:26+08:00 ] 127.0.0.1 /thinkphp/Admin/product/3
+ERR: 非法操作:3
+
+[ 2017-08-17T16:21:28+08:00 ] 127.0.0.1 /thinkphp/Admin/product/10
+ERR: 非法操作:10
+
+[ 2017-08-17T16:22:17+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T16:22:21+08:00 ] 127.0.0.1 /thinkphp/Admin/product/9
+ERR: 非法操作:9
+
+[ 2017-08-17T16:24:49+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T16:43:09+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T16:43:46+08:00 ] 127.0.0.1 /thinkphp/Admin/product/1
+ERR: 非法操作:1
+
+[ 2017-08-17T17:06:48+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T17:06:49+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:06:50+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:06:51+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:07:38+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T17:07:39+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:07:40+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:07:41+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:08:26+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T17:08:27+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:08:28+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:08:29+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:09:00+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:09:01+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:09:02+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T17:09:03+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T17:17:01+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/productList
+ERR: 模板不存在:./Application/Admin/View/Product/productList.html
+
+[ 2017-08-17T21:20:23+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000728s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002082s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000717s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-08-17T21:20:52+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000711s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000723s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2017-08-17T21:20:55+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002056s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000772s ]
+
+[ 2017-08-17T21:20:57+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002039s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000729s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-08-17T21:20:57+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002066s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000715s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000774s ]
+
+[ 2017-08-17T21:20:58+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000716s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002048s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000775s ]
+
+[ 2017-08-17T21:20:59+08:00 ] 127.0.0.1 /thinkphp/Admin/Menber/gain.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000720s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002075s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-08-17T22:30:36+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:30:37+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:30:39+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T22:30:40+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:31:56+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:31:57+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T22:31:58+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:31:59+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:35:35+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/skin/default/skin.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:35:36+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/style.css
+ERR: 非法操作:static
+
+[ 2017-08-17T22:35:37+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/lib/Hui-iconfont/1.0.8/iconfont.css
+ERR: 非法操作:lib
+
+[ 2017-08-17T22:35:38+08:00 ] 127.0.0.1 /thinkphp/Admin/Product/static/h-ui.admin/css/H-ui.admin.css
+ERR: 非法操作:static
+
